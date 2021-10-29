@@ -1,6 +1,5 @@
 streamlit
 instaloader
 numpy
-libgl1-mesa-glx
-opencv-python==4.5.3.56
+opencv-python-headless
 
